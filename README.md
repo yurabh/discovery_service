@@ -1,4 +1,4 @@
-                                                 discovery_service
+                                                   discovery_service
 1)About the project.
 
 This project is a microservice evreka server in which all other microservices (instances) are registered
